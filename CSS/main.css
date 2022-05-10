@@ -1,11 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap");
 body {
-  font-family: "Vazirmatn", sans-serif;
+    font-family: "Vazirmatn", sans-serif;
 }
-.icon{
+
+.icon {
     color: #0d6efe;
     background-color: #ebeafb;
     display: inline-flex;
-    padding:15px;
+    padding: 15px;
     border-radius: 15px;
+}
+
+.card-primary {
+    background: #1b2a4e;
+    color: white !important;
 }
