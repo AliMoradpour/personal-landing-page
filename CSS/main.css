@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap");
 body {
     font-family: "Vazirmatn", sans-serif;
+    overflow-x: hidden;
 }
 
 .icon {
@@ -14,4 +15,7 @@ body {
 .card-primary {
     background: #1b2a4e;
     color: white !important;
+}
+.bg-fourth-section{
+    background-color: #1b2a4e;
 }
