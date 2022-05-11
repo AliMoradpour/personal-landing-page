@@ -19,3 +19,14 @@ body {
 .bg-fourth-section{
     background-color: #1b2a4e;
 }
+.footer-title{
+    border-bottom:3px solid #000;
+    height: 30px;
+}
+.footer-link{
+    text-decoration: none;
+    color:#000;
+}
+.footer-link:hover{
+    color:#000;
+}
