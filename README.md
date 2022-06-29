@@ -1,5 +1,5 @@
 ## personal-landing-page
 working with bootstrap and make a personal page for practice
 
-View the project online : 
+Take a look at the project : 
 https://cozy-sunburst-9daa67.netlify.app/
